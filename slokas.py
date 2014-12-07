@@ -14,22 +14,28 @@ for line in file:
 		print(line)
 		continue
 
+	ccm = False
+	iso = False
+	noi = False
 	if line.startswith("CC"):
 		ccm = True
 		sloka_string = line[3:]
 		sloka_id = sloka_string.strip()
 		if debug:
 			print("SLOKA string", sloka_id)
+	elif line.startswith("NOI"):
+		noi = True
+		sloka_string = line[4:]
+		sloka_id = sloka_string.strip()
+		if debug:
+			print("SLOKA string", sloka_id)
 	elif line.startswith("ISO"):
-		ccm = False
 		iso = True
 		sloka_string = line[4:]
 		sloka_id = sloka_string.strip()
 		if debug:
 			print("SLOKA string", sloka_id)
 	else:
-		ccm = False
-		iso = False
 		sloka_id = line
 	
 	components = sloka_id.split(".")
@@ -39,6 +45,8 @@ for line in file:
 	if (ndots == 0):
 		if iso:
 			sastra = "iso"
+		elif noi:
+			sastra = "noi"
 		else:
 			sastra = ""
 	elif (ndots == 1):
