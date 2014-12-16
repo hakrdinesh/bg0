@@ -1,12 +1,11 @@
-# What:		Sunday BG Class
+# What:		Tuesday BG Class
 # Who:		His Grace Sundar Gopal Prabhu
 # Where:	SKM Singapore
-# When:		Tuesday 16 December 2014 6:22 pm IST
+# When:		Tuesday 16 December 2014 Evening
 
 7.2	http://vedabase.com/en/bg/7/2
 ISO 11	http://vedabase.com/en/iso/11
 8.17	http://vedabase.com/en/bg/8/17
-ISO 11	http://vedabase.com/en/iso/11
 6.4	http://vedabase.com/en/bg/6/4
 5.22	http://vedabase.com/en/bg/5/22
 7.6.3	http://vedabase.com/en/sb/7/6/3
