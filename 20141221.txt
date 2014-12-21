@@ -36,6 +36,6 @@ CCM 19.140	http://vedabase.com/en/cc/madhya/19/140
 6.7.14 material education	http://vedabase.com/en/sb/6/7/14 material education
 16.23	http://vedabase.com/en/bg/16/23
 CCM 17.186	http://vedabase.com/en/cc/madhya/17/186
-6.3.20	http://vedabase.com/en/sb/6/3/20
+6.3.20-21	http://vedabase.com/en/sb/6/3/20-21
 1.18.13	http://vedabase.com/en/sb/1/18/13
 CCM 24.313	http://vedabase.com/en/cc/madhya/24/313
