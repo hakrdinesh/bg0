@@ -10,7 +10,7 @@
 3.9	http://vedabase.com/en/bg/3/9
 5.26P	http://vedabase.com/en/bg/5/26 read purport
 4.22.39	http://vedabase.com/en/sb/4/22/39
-ISO1	http://vedabase.com/en/iso/
+ISO 1	http://vedabase.com/en/iso/1
 9.26	http://vedabase.com/en/bg/9/26
 17.8	http://vedabase.com/en/bg/17/8
 17.9	http://vedabase.com/en/bg/17/9
