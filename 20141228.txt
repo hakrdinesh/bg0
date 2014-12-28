@@ -1,0 +1,38 @@
+# What:		Sunday BG Class
+# Who:		His Grace Sundar Gopal Prabhu
+# Where:	SKM Singapore
+# When:		Sunday 28 December 2014 12:15 pm
+
+17.23	http://vedabase.com/en/bg/17/23
+17.24	http://vedabase.com/en/bg/17/24
+17.25	http://vedabase.com/en/bg/17/25
+9.27	http://vedabase.com/en/bg/9/27
+3.9	http://vedabase.com/en/bg/3/9
+5.26P	http://vedabase.com/en/bg/5/26 read purport
+4.22.39	http://vedabase.com/en/sb/4/22/39
+ISO1	http://vedabase.com/en/iso/
+9.26	http://vedabase.com/en/bg/9/26
+17.8	http://vedabase.com/en/bg/17/8
+17.9	http://vedabase.com/en/bg/17/9
+17.10	http://vedabase.com/en/bg/17/10
+11.5.14	http://vedabase.com/en/sb/11/5/14
+CCA 17.166	http://vedabase.com/en/cc/adi/17/166
+720307SB.CAL 7th Canto Calcutta 1972 March 7th	http://vedabase.com/en/bg/720307SB/CAL 7th Canto Calcutta 1972 March 7th
+2.3.17	http://vedabase.com/en/sb/2/3/17
+missing
+11.27.52	http://vedabase.com/en/sb/11/27/52
+11.27.53	http://vedabase.com/en/sb/11/27/53
+11.27.55	http://vedabase.com/en/sb/11/27/55
+17.5	http://vedabase.com/en/bg/17/5
+17.7	http://vedabase.com/en/bg/17/7
+17.19	http://vedabase.com/en/bg/17/19
+5.29	http://vedabase.com/en/bg/5/29
+661212CC.NY New York 1966 December 12th	http://vedabase.com/en/bg/661212CC/NY New York 1966 December 12th
+74033BG.BOM Bombay 1974 March 23rd Bg 4.3	http://vedabase.com/en/sb/74033BG/BOM Bombay 1974 March 23rd Bg 4/3
+18.5	http://vedabase.com/en/bg/18/5
+18.20 ?	http://vedabase.com/en/bg/18/20 ?
+18.25	http://vedabase.com/en/bg/18/25
+17.19	http://vedabase.com/en/bg/17/19
+18.63	http://vedabase.com/en/bg/18/63
+4.9	http://vedabase.com/en/bg/4/9
+8.15	http://vedabase.com/en/bg/8/15
