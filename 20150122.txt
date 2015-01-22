@@ -23,6 +23,6 @@ When: 	Thursday 22 January 2015
 'yam labhdha
 
 5.5.15	http://vedabase.com/en/sb/5/5/15
-'be patient with ...	http://vedabase.com/en/something/'be patient with ///
+'be patient with ---
 
-'as long they are chanting and reading and not eating meat ...	http://vedabase.com/en/something/'as long they are chanting and reading and not eating meat ///
+'as long they are chanting and reading and not eating meat ---
