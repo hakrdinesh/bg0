@@ -19,7 +19,7 @@ When: 	Thursday 22 January 2015
 
 7.19	http://vedabase.com/en/bg/7/19
 7.3	http://vedabase.com/en/bg/7/3
-6.23	http://vedabase.com/en/bg/6/23
+6.20-23	http://vedabase.com/en/bg/6/20-23
 'yam labhdha
 
 5.5.15	http://vedabase.com/en/sb/5/5/15
